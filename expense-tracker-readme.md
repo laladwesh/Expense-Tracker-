@@ -156,7 +156,7 @@ This project is open source and available under the [MIT License](LICENSE).
 - GitHub: [@laladwesh](https://github.com/laladwesh)
 
 **UmamAli**
-- GitHub : @umam-alihttps://github.com/umam-ali
+- GitHub : [@umam-ali](https://github.com/umam-ali)
 ## 🙏 Acknowledgments
 
 - Built with Create React App
