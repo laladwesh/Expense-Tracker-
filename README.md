@@ -159,7 +159,7 @@ This project is open source and available under the [MIT License](LICENSE).
 - GitHub : [@umam-ali](https://github.com/umam-ali)
 ## 🙏 Acknowledgments
 
-- Built with Create React App
+- Built with Create React App.
 - Material-UI for the component library
 - Chart.js for data visualization
 - React community for excellent documentation and support
